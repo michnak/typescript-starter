@@ -15,14 +15,13 @@ Additionally, if you're not used to setting up new projects, it can be overwhelm
 
 ## Features
 
-TypeScript 5+
-Reloading with Nodemon and ts-node
-Export and import (ES modules) enabled
-ESlint
-Prettier
-Husky for pre-commit hook and lint-staged to format only staged files
-Rimraf for production build and start
-Jest for (can be excluded by switching to branch without-jest)
+- TypeScript 5+
+- Reloading with Nodemon and ts-node
+- Export and import (ES modules) enabled
+- ESlint
+- Prettier
+- Husky for pre-commit hook and lint-staged to format only staged files
+- Rimraf for production build and start
 
 ## How to run
 
@@ -32,4 +31,5 @@ Jest for (can be excluded by switching to branch without-jest)
 
 3. `npm run dev` to start the app in local developement
 
+---
 Inspired by [Khalil Stemmler](https://khalilstemmler.com/blogs/typescript/node-starter-project/)
