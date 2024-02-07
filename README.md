@@ -17,12 +17,12 @@ Additionally, if you're not used to setting up new projects, it can be overwhelm
 
 - TypeScript 5+
 - Reloading with Nodemon and ts-node
-- Export and import (ES modules) enabled
+- Native ES modules enabled
 - ESlint
 - Prettier
 - Husky for pre-commit hook and lint-staged to format only staged files
 - Rimraf for production build and start
-- Jest for testing(can be excluded by switching to branch [without-jest](https://github.com/michnak/typescript-starter/tree/without-jest))
+- Vitest for testing(Jest has [ESM in experimental mode](https://jestjs.io/docs/ecmascript-modules))
 
 ## How to run
 
