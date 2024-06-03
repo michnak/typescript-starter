@@ -20,7 +20,7 @@
   "author": "Mat Michnak",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^20.12.12",
+    "@types/node": "^20.14.0",
     "@typescript-eslint/eslint-plugin": "^7.11.0",
     "@typescript-eslint/parser": "^7.11.0",
     "eslint": "^8.57.0",
