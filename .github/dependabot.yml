@@ -6,4 +6,9 @@ updates:
   - package-ecosystem: npm
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "monthly"
+    groups: 
+      dev-dependencies:
+        update-types:
+        - "minor"
+        - "patch"
