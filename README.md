@@ -20,7 +20,6 @@ Additionally, if you're not used to setting up new projects, it can be overwhelm
 - Native ES modules enabled
 - ESlint
 - Prettier
-- Husky for pre-commit hook and lint-staged to format only staged files
 - Rimraf for production build and start
 - Vitest for testing(Jest has [ESM in experimental mode](https://jestjs.io/docs/ecmascript-modules))
 
