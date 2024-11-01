@@ -16,7 +16,7 @@ Additionally, if you're not used to setting up new projects, it can be overwhelm
 ## Features
 
 - TypeScript 5+
-- Reloading with Nodemon and ts-node
+- Reloading tsx
 - Native ES modules enabled
 - ESlint
 - Prettier
